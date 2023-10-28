@@ -27,7 +27,7 @@
 				<configuration>
 				   <cloudHubDeployment>
 				      <uri>https://anypoint.mulesoft.com</uri>
-				      <muleVersion>4.5.0</muleVersion>
+				      <muleVersion>4.4.0</muleVersion>
 				      <username>ashu920</username>
 				      <password>Ashu@311211</password>
 				      <applicationName>CICD111</applicationName>
@@ -80,7 +80,7 @@
 			<layout>default</layout>
 			<url>https://repository.mulesoft.org/releases/</url>
 			<snapshots>
-				<enabled>true</enabled>
+				<enabled>false</enabled>
 			</snapshots>
 		</pluginRepository>
 	</pluginRepositories>
